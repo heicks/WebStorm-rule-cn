@@ -1,7 +1,9 @@
 覆盖即可。
 
-_Now loading_
-| inspections lang-cn                    |          |             |
+_Now loading_  
+
+
+|     |inspections lang-cn                 |        |            |
 | -----------------------------------------|--------|-------------|
 | Sta |               PATH                 |Loading |     Tag     |
 | [X] | coffeescript/lib/resources_cn.jar  | 100 %  | `Temporary` |
