@@ -5,7 +5,7 @@
 |- [ ] | /plugins/AngularJS/lib/*                                            | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/asp/lib/resources_en.jar                                   | ??? %  | #`-`#                       |
 |- [X] | /plugins/coffeescript/lib/resources_cn.jar                          | 100 %  | `Lv.1` `over` `Temporary`   |
-|- [ ] | /plugins/CSS/lib/resources_cn.jar.Hansding                          |  2x %  | `Lv.1` `Update v2` `Now`    |
+|- [ ] | /plugins/CSS/lib/resources_cn.jar.Hansding                          | 02x %  | `Lv.1` `Update v2` `Now`    |
 |- [ ] | /plugins/cucumber/lib/resources_cn.jar.Hansding                     | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/CucumberJavascript/lib/*                                   | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/cvsIntegration/lib/resources_cn.jar.Hansding               | ??? %  | `Lv.`                       |
@@ -50,3 +50,5 @@
 |- [ ] | /plugins/xslt-debugger/lib/*                                        | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/yaml/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/Yeoman/lib/*                                               | ??? %  | #`404 Not Fond`#            |
+
+`进度优先级：Lv.0 > Lv.1 > Lv.2 > Lv.3 > Lv.4` 
