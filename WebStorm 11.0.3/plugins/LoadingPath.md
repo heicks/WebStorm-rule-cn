@@ -1,6 +1,7 @@
 #各文件进度及其优先级
 
-
+| Status |       Settings > IDE > Inspections_CN     |Loading |     Tag     |
+|------|---------------------------------------------|--------|-------------|
 | Status|               PATH                         |Loading |        Tag              |
 |-------|--------------------------------------------|--------------------------------|
 |- [X] | /plugins/coffeescript/lib/resources_cn.jar  | 100 %  | `Lv.1` `over` `Temporary`   |
