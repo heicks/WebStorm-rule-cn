@@ -51,4 +51,5 @@
 |- [ ] | /plugins/yaml/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/Yeoman/lib/*                                               | ??? %  | #`404 Not Fond`#            |
 
+#规定：
 `进度优先级：Lv.0 > Lv.1 > Lv.2 > Lv.3 > Lv.4` 
