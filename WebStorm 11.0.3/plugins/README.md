@@ -9,7 +9,7 @@ inspections lang-cn
 | Status |       Settings > IDE > Inspections_CN     |Loading |     Tag     |
 |------|---------------------------------------------|--------|-------------|
 |- [X] | coffeescript                                | 100 %  | `Lv.1` `over` `Temporary`   |
-|- [ ] | CSS                                         |  2x %  | `Lv.1` `Update v2` `Now`  |
+|- [x] | CSS                                         |  2x %  | `Lv.1` `Update v2` `Now` `over` |
 |- [ ] | Dart                                        | ??? %  | `Lv.2`       |
 |- [ ] | EJS                                         | ??? %  | `Lv.3`       |
 |- [ ] | File Watchers                               | ??? %  | `Lv.0`       |

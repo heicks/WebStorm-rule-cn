@@ -1,11 +1,11 @@
-#各文件进度及其优先级v1.696.5
+#各文件进度及其优先级v1.697.2
 
 | Status |                 PATH                                              |Loading |     Tag                     |
 |------|---------------------------------------------------------------------|--------|-----------------------------|
 |- [ ] | /plugins/AngularJS/lib/*                                            | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/asp/lib/resources_en.jar                                   | ??? %  | #`-`#                       |
-|- [X] | /plugins/coffeescript/lib/resources_cn.jar                          | 100 %  | `Lv.1` `over` `Temporary`   |
-|- [ ] | /plugins/CSS/lib/resources_cn.jar.Hansding                          | 02x %  | `Lv.1` `Update v2` `Now`    |
+|- [X] | /plugins/coffeescript/lib/resources_cn.jar                          | 100 %  | `Lv.1` `over` `Temporary` `/overJPG/Coffeescript.jpg`  |
+|- [x] | /plugins/CSS/lib/resources_cn.jar                                   | 02x %  | `Lv.1` `Update v2` `Now` `over` `/overJPG/CSS.jpg`  |
 |- [ ] | /plugins/cucumber/lib/resources_cn.jar.Hansding                     | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/CucumberJavascript/lib/*                                   | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/cvsIntegration/lib/resources_cn.jar.Hansding               | ??? %  | `Lv.`                       |
@@ -51,9 +51,10 @@
 |- [ ] | /plugins/yaml/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/Yeoman/lib/*                                               | ??? %  | #`404 Not Fond`#            |
 
-#规定：
+#规则限定：
 ```
 `进度优先级：Lv.0 > Lv.1 > Lv.2 > Lv.3 > Lv.4`   
 #`404 Not Fond`# : 无汉化资源文件。  
 #`-`# ： 不对其进行汉化，没有为什么。
 ```
+
