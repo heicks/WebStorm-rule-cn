@@ -6,7 +6,7 @@
 |- [ ] | /plugins/asp/lib/resources_en.jar                                   | ??? %  | #`-`#                       |
 |- [X] | /plugins/coffeescript/lib/resources_cn.jar                          | 100 %  | `Lv.1` `over` `Temporary` `/overJPG/Coffeescript.jpg`  |
 |- [x] | /plugins/CSS/lib/resources_cn.jar                                   | 02x %  | `Lv.1` `Update v2` `Now` `over` `/overJPG/CSS.jpg`  |
-|- [x] | /plugins/cucumber/lib/resources_cn.jar.Hansding                     | 099 %  | `Lv.2` `Temporary`          |
+|- [x] | /plugins/cucumber/lib/resources_cn.jar.Hansding                     | 099 %  | `Lv.2` `Temporary` `over` `/overJPG/cucumber.jpg`         |
 |- [ ] | /plugins/CucumberJavascript/lib/*                                   | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/cvsIntegration/lib/resources_cn.jar.Hansding               | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/Dart/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
