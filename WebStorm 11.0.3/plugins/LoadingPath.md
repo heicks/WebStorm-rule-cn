@@ -6,7 +6,7 @@
 |- [ ] | /plugins/asp/lib/resources_en.jar                                   | ??? %  | #`-`#                       |
 |- [X] | /plugins/coffeescript/lib/resources_cn.jar                          | 100 %  | `Lv.1` `over` `Temporary` `/overJPG/Coffeescript.jpg`  |
 |- [x] | /plugins/CSS/lib/resources_cn.jar                                   | 02x %  | `Lv.1` `Update v2` `Now` `over` `/overJPG/CSS.jpg`  |
-|- [x] | /plugins/cucumber/lib/resources_cn.jar.Hansding                     | 099 %  | `Lv.2` `Temporary` `over` `/overJPG/cucumber.jpg`         |
+|- [x] | /plugins/cucumber/lib/resources_cn.jar                              | 099 %  | `Lv.2` `Temporary` `over` `/overJPG/cucumber.jpg`         |
 |- [ ] | /plugins/CucumberJavascript/lib/*                                   | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/cvsIntegration/lib/resources_cn.jar.Hansding               | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/Dart/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
@@ -21,22 +21,22 @@
 |- [ ] | /plugins/htmltools/lib/resources_cn.jar.Hansding                    | ??? %  | `Lv.1`                      |
 |- [ ] | /plugins/IntelliLang/lib/IntelliLang.jar.Hansding                   | ??? %  | `Lv.0` `over`                     |
 |- [ ] | /plugins/Jade/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/JavaScriptDebugger/lib/resources_cn.jar.Hansding           | ??? %  | `Lv.1`                      |
+|- [x] | /plugins/JavaScriptDebugger/lib/resources_cn.jar                    | 100 %  | `Lv.1` `over`                     |
 |- [ ] | /plugins/JavaScriptLanguage/lib/resources_cn.jar.Hansding           | ??? %  | `Lv.1`                      |
 |- [ ] | /plugins/JSIntentionPowerPack/lib/resources_cn.jar.Hansding         | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/js-karma/lib/*                                             | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/jsp/lib/*                                                  | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/less/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/LiveEdit/lib/resources_cn.jar.Hansding                     | 100 %  | `Lv.0` `over` `v2`                    |
+|- [X] | /plugins/LiveEdit/lib/resources_cn.jar                              | 100 %  | `Lv.0` `over` `v2`                    |
 |- [ ] | /plugins/Meteor/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/NodeJS/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/PerforceIntegration/lib/resources_cn.jar.Hansding          | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/phoneGap/lib/resources_cn.jar.Hansding                     | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/QuirksMode/lib/resources_cn.jar.Hansding                   | 100 %  | `Lv.0`                      |
+|- [X] | /plugins/QuirksMode/lib/resources_cn.jar                            | 100 %  | `Lv.0` `over`                     |
 |- [ ] | /plugins/RefactorX/lib/resources_cn.jar.Hansding                    | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/restClient/lib/resources_cn.jar.Hansding                   | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/sass/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/settings-repository/lib/resources_cn.jar.Hansding          | 100 %  | `Lv.0`                      |
+|- [X] | /plugins/settings-repository/lib/resources_cn.jar                   | 100 %  | `Lv.0` `over`                     |
 |- [ ] | /plugins/spy-js/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/stylus/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/svn4idea/lib/resources_cn.jar.Hansding                     | ??? %  | `Lv.`                       |
