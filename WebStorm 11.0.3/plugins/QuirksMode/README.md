@@ -1,0 +1,1 @@
+QuirksMode Hans rule By Github.com/Heicks

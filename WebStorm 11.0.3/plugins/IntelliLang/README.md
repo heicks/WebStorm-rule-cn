@@ -1,0 +1,1 @@
+IntelliLang Hans rule By Github.com/Heicks

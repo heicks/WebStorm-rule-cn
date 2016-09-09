@@ -1,4 +1,4 @@
-#各文件进度及其优先级v1.697.2
+#各文件进度及其优先级v1.699.6
 
 | Status |                 PATH                                              |Loading |     Tag                     |
 |------|---------------------------------------------------------------------|--------|-----------------------------|
@@ -19,7 +19,7 @@
 |- [ ] | /plugins/handlebars/lib/resources_cn.jar.Hansding                   | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/hg4idea/lib/resources_cn.jar.Hansding                      | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/htmltools/lib/resources_cn.jar.Hansding                    | ??? %  | `Lv.1`                      |
-|- [ ] | /plugins/IntelliLang/lib/IntelliLang.jar.Hansding                   | ??? %  | `Lv.0`                      |
+|- [ ] | /plugins/IntelliLang/lib/IntelliLang.jar.Hansding                   | ??? %  | `Lv.0` `over`                     |
 |- [ ] | /plugins/Jade/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/JavaScriptDebugger/lib/resources_cn.jar.Hansding           | ??? %  | `Lv.1`                      |
 |- [ ] | /plugins/JavaScriptLanguage/lib/resources_cn.jar.Hansding           | ??? %  | `Lv.1`                      |
@@ -27,16 +27,16 @@
 |- [ ] | /plugins/js-karma/lib/*                                             | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/jsp/lib/*                                                  | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/less/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/LiveEdit/lib/resources_cn.jar.Hansding                     | ??? %  | `Lv.0`                      |
+|- [ ] | /plugins/LiveEdit/lib/resources_cn.jar.Hansding                     | 100 %  | `Lv.0` `over` `v2`                    |
 |- [ ] | /plugins/Meteor/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/NodeJS/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/PerforceIntegration/lib/resources_cn.jar.Hansding          | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/phoneGap/lib/resources_cn.jar.Hansding                     | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/QuirksMode/lib/resources_cn.jar.Hansding                   | ??? %  | `Lv.0`                      |
+|- [ ] | /plugins/QuirksMode/lib/resources_cn.jar.Hansding                   | 100 %  | `Lv.0`                      |
 |- [ ] | /plugins/RefactorX/lib/resources_cn.jar.Hansding                    | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/restClient/lib/resources_cn.jar.Hansding                   | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/sass/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/settings-repository/lib/resources_cn.jar.Hansding          | ??? %  | `Lv.0`                      |
+|- [ ] | /plugins/settings-repository/lib/resources_cn.jar.Hansding          | 100 %  | `Lv.0`                      |
 |- [ ] | /plugins/spy-js/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/stylus/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/svn4idea/lib/resources_cn.jar.Hansding                     | ??? %  | `Lv.`                       |
