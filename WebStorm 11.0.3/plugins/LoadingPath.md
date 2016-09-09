@@ -1,4 +1,4 @@
-#各文件进度及其优先级v1.699.7
+#各文件进度及其优先级v1.699.8
 
 | Status |                 PATH                                              |Loading |     Tag                     |
 |------|---------------------------------------------------------------------|--------|-----------------------------|
@@ -22,7 +22,8 @@
 |- [ ] | /plugins/IntelliLang/lib/IntelliLang.jar.Hansding                   | ??? %  | `Lv.0` `over`                     |
 |- [ ] | /plugins/Jade/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
 |- [x] | /plugins/JavaScriptDebugger/lib/resources_cn.jar                    | 100 %  | `Lv.1` `over`                     |
-|- [ ] | /plugins/JavaScriptLanguage/lib/resources_cn.jar.Hansding           | ??? %  | `Lv.1`                      |
+|- [X] | /plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar/             | 100 %  | `Lv.1` `over`                     |
+|- [ ] | /plugins/JavaScriptLanguage/lib/resources_cn.jar.Hansding           | ??1 %  | `Lv.1` `NOW`                     |
 |- [ ] | /plugins/JSIntentionPowerPack/lib/resources_cn.jar.Hansding         | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/js-karma/lib/*                                             | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/jsp/lib/*                                                  | ??? %  | #`404 Not Fond`#            |
