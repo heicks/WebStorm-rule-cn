@@ -23,7 +23,7 @@
 |- [ ] | /plugins/Jade/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
 |- [x] | /plugins/JavaScriptDebugger/lib/resources_cn.jar                    | 100 %  | `Lv.1` `over`                     |
 |- [X] | /plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar/             | 100 %  | `Lv.1` `over`                     |
-|- [ ] | /plugins/JavaScriptLanguage/lib/resources_cn.jar.Hansding           | ??1 %  | `Lv.1` `NOW`                     |
+|- [ ] | /plugins/JavaScriptLanguage/lib/resources_cn.jar.Hansding           | ?1x %  | `Lv.1` `NOW`                     |
 |- [ ] | /plugins/JSIntentionPowerPack/lib/resources_cn.jar.Hansding         | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/js-karma/lib/*                                             | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/jsp/lib/*                                                  | ??? %  | #`404 Not Fond`#            |
