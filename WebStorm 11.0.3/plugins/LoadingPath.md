@@ -1,4 +1,4 @@
-#各文件进度及其优先级v1.6923.21
+#各文件进度及其优先级v1.61011.12
 
 | Status |                 PATH                                              |Loading |     Tag                     |
 |------|---------------------------------------------------------------------|--------|-----------------------------|
@@ -23,7 +23,7 @@
 |- [ ] | /plugins/Jade/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
 |- [x] | /plugins/JavaScriptDebugger/lib/resources_cn.jar                    | 100 %  | `Lv.1` `over`                     |
 |- [X] | /plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar/             | 100 %  | `Lv.1` `over`                     |
-|- [ ] | /plugins/JavaScriptLanguage/lib/resources_cn.jar.Hansding           | ?1x %  | `Lv.1` `NOW`                     |
+|- [x] | /plugins/JavaScriptLanguage/lib/resources_cn.jar.Hansding           | 100 %  | `Lv.1` `NOW` `over`                    |
 |- [ ] | /plugins/JSIntentionPowerPack/lib/resources_cn.jar.Hansding         | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/js-karma/lib/*                                             | ??? %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/jsp/lib/*                                                  | ??? %  | #`404 Not Fond`#            |
@@ -41,16 +41,16 @@
 |- [ ] | /plugins/spy-js/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/stylus/lib/resources_cn.jar.Hansding                       | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/svn4idea/lib/resources_cn.jar.Hansding                     | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/tasks/lib/*                                                | ??? %  | #`404 Not Fond`#            |
+|- [x] | /plugins/tasks/lib/*                                                | 100 %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/terminal/lib/resources_cn.jar.Hansding                     | ??? %  | `Lv.0`                      |
-|- [ ] | /plugins/textmate/lib/*                                             | ??? %  | #`404 Not Fond`#            |
+|- [x] | /plugins/textmate/lib/*                                             | 100 %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/w3validators/lib/resources_cn.jar.Hansding                 | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/WebComponents/lib/*                                        | ??? %  | #`404 Not Fond`#            |
+|- [x] | /plugins/WebComponents/lib/*                                        | 100 %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/webDeployment/lib/resources_cn.jar.Hansding                | ??? %  | `Lv.`                       |
 |- [ ] | /plugins/xpath/lib/resources_cn.jar.Hansding                        | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/xslt-debugger/lib/*                                        | ??? %  | #`404 Not Fond`#            |
+|- [x] | /plugins/xslt-debugger/lib/*                                        | 100 %  | #`404 Not Fond`#            |
 |- [ ] | /plugins/yaml/lib/resources_cn.jar.Hansding                         | ??? %  | `Lv.`                       |
-|- [ ] | /plugins/Yeoman/lib/*                                               | ??? %  | #`404 Not Fond`#            |
+|- [x] | /plugins/Yeoman/lib/*                                               | 100 %  | #`404 Not Fond`#            |
 
 #规则限定：
 ```

@@ -19,7 +19,7 @@ inspections lang-cn
 |- [ ] | HTML                                        | ??? %  | `Lv.1`       |
 |- [ ] | Ignore                                      | ??? %  | `Lv.0` `Plugin` |
 |- [ ] | Jade                                        | ??? %  | `Lv.2`       |
-|- [ ] | Javascript                                  | ??? %  | `Lv.3`       |
+|- [x] | Javascript                                  | 100 %  | `Lv.3` `over`      |
 |- [ ] | JSON                                        | ??? %  | `Lv.1`       |  
 |- [ ] | Less                                        | ??? %  | `Lv.1`       |
 |- [ ] | Meteor                                      | ??? %  | `Lv.3`       |
